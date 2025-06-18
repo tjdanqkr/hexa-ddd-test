@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/hexa
+    driver-class-name: org.postgresql.Driver
+    username: hexa
+    password: secret
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: false
