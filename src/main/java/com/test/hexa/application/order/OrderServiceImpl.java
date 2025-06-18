@@ -1,8 +1,8 @@
-package com.test.application.order;
+package com.test.hexa.application.order;
 
-import com.test.domain.order.Order;
-import com.test.domain.order.OrderStatus;
-import com.test.domain.service.OrderCompletedEvent;
+import com.test.hexa.domain.order.Order;
+import com.test.hexa.domain.order.OrderStatus;
+import com.test.hexa.domain.service.OrderCompletedEvent;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Service;
 

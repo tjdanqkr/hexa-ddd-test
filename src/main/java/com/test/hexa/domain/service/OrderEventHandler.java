@@ -1,4 +1,4 @@
-package com.test.domain.service;
+package com.test.hexa.domain.service;
 
 import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package com.test.domain.customer;
+package com.test.hexa.domain.customer;
 
 public enum CustomerGrade {
     BASIC,

@@ -1,6 +1,6 @@
-package com.test.domain.service;
+package com.test.hexa.domain.service;
 
-import com.test.domain.order.Order;
+import com.test.hexa.domain.order.Order;
 import org.springframework.context.ApplicationEvent;
 
 public class OrderCompletedEvent extends ApplicationEvent {

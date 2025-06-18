@@ -1,4 +1,4 @@
-package com.test.domain.product;
+package com.test.hexa.domain.product;
 
 import jakarta.persistence.*;
 

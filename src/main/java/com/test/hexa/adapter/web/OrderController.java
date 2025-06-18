@@ -1,7 +1,7 @@
-package com.test.adapter.web;
+package com.test.hexa.adapter.web;
 
-import com.test.application.order.OrderService;
-import com.test.domain.order.Order;
+import com.test.hexa.application.order.OrderService;
+import com.test.hexa.domain.order.Order;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,8 +1,8 @@
-package com.test.domain.order;
+package com.test.hexa.domain.order;
 
 import jakarta.persistence.*;
 
-import com.test.domain.product.Product;
+import com.test.hexa.domain.product.Product;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 

@@ -1,8 +1,8 @@
-package com.test.adapter.web;
+package com.test.hexa.adapter.web;
 
-import com.test.domain.order.Order;
-import com.test.domain.order.OrderItem;
-import com.test.domain.product.Product;
+import com.test.hexa.domain.order.Order;
+import com.test.hexa.domain.order.OrderItem;
+import com.test.hexa.domain.product.Product;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

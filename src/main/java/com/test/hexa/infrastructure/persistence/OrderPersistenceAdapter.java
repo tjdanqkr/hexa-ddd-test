@@ -1,7 +1,7 @@
-package com.test.infrastructure.persistence;
+package com.test.hexa.infrastructure.persistence;
 
-import com.test.application.order.OrderRepository;
-import com.test.domain.order.Order;
+import com.test.hexa.application.order.OrderRepository;
+import com.test.hexa.domain.order.Order;
 import java.util.Optional;
 import org.springframework.stereotype.Component;
 

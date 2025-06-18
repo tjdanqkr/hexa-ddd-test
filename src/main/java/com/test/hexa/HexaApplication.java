@@ -6,9 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
-@SpringBootApplication(scanBasePackages = "com.test")
-@EntityScan("com.test")
-@EnableJpaRepositories("com.test")
+@SpringBootApplication(scanBasePackages = "com.test.hexa")
+@EntityScan("com.test.hexa")
+@EnableJpaRepositories("com.test.hexa")
 public class HexaApplication {
 
 	public static void main(String[] args) {

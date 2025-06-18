@@ -1,6 +1,6 @@
-package com.test.application.order;
+package com.test.hexa.application.order;
 
-import com.test.domain.order.Order;
+import com.test.hexa.domain.order.Order;
 import java.util.Optional;
 
 public interface OrderRepository {

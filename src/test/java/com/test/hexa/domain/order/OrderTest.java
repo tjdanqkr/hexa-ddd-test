@@ -1,6 +1,6 @@
-package com.test.domain.order;
+package com.test.hexa.domain.order;
 
-import com.test.domain.product.Product;
+import com.test.hexa.domain.product.Product;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

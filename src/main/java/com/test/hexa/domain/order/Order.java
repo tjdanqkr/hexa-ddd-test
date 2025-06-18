@@ -1,4 +1,4 @@
-package com.test.domain.order;
+package com.test.hexa.domain.order;
 
 import jakarta.persistence.*;
 
